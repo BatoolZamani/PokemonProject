@@ -1,0 +1,5 @@
+Die hoch aufgelösten Bilder
+sprites/master/sprites/pokemon/other/official-artwork/1.png
+
+
+https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png
