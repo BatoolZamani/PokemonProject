@@ -18,14 +18,14 @@
   <body onload="init()">
     <header></header>
 
-    <div class="searchBox" onclick="searchPokemon()">
+    <div class="searchBox" >
 
       <input class="searchInput" type="text" name=""  id="searchInput" placeholder="Search Pokémon by name..." oninput="filterAndShowNames()">
-      <button class="searchButton" href="#">
+      <!-- <button class="searchButton" type="button" href="#">
           <i class="material-icons">
               search
           </i>
-      </button>
+      </button> -->
     
     </div>
 
@@ -67,8 +67,7 @@
          
         </div> -->
 
-
-
+        
 
 
 
@@ -186,8 +185,14 @@
 
 
       </div>
+     
     </div>
-
-    <footer>footer</footer>
+    <div class="btn-container-loadmore">
+      <button class="btn-loadmore">
+        <span class="btn-text-loadmore">Load More</span>
+        <div class="fill-container-loadmore"></div>
+      </button>
+    </div>
+    <!-- <footer>footer</footer> -->
   </body>
 </html>
